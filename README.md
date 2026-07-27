@@ -1,0 +1,2 @@
+# atlanticcasino
+Static site: atlanticcasino
