@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 48" role="img" aria-label="Ochre Field">
+  <g transform="translate(0,8)">
+    <circle cx="16" cy="13" r="6.2" fill="none" stroke="#d99a3b" stroke-width="1.6"/>
+    <path d="M3.5 22h25" stroke="#232419" stroke-width="1.6"/>
+    <path d="M6.5 26.5h19" stroke="#a8562c" stroke-width="1.6"/>
+  </g>
+  <text x="42" y="29" font-family="Consolas, 'Lucida Console', Menlo, monospace" font-size="13"
+        font-weight="bold" letter-spacing="4.8" fill="#232419">OCHRE FIELD</text>
+</svg>
